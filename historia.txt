@@ -3,10 +3,7 @@ este es el segundo parrafo que vamos a modificar
 este es el tercer parrafor uqe vamos a modificar
 este es el cuarto parrafo que vamos a modificar
 este es el quinto parrafor que vamos a modificar
-<<<<<<< HEAD
 Master 1
 Master 2
-=======
 experimento 1
 experimento 2
->>>>>>> c5da8ec (se generan los experimentos)
